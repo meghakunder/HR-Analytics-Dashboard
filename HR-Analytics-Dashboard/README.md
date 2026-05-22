@@ -7,7 +7,7 @@
 - Tracked retrenchment insights and promotion eligibility.
 - Analyzed overtime patterns and employee satisfaction.
 - Created multi-page interactive HR analytics dashboard.
-- Built summary, action, and detailed insight pages for HR decision-making.
+-  Built summary, action, and detailed insight pages with interactive navigation.
 
 ---
 
